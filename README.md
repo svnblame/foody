@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Foody is an online supermarket with Stripe integration.
+
+## Built with React JS library.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
